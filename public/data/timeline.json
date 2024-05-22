@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "title": "Intern Frontend Developer",
+      "company": "FPT Software",
+      "tasks": "Creates websites and applications that allow users to access and interact with the site or app",
+      "tags": ["NextJS", "React", "Typescript", "REST", "GraphQL"],
+      "year": "2024"
+    },
+    {
+      "title": "Frontend Engineer",
+      "company": "Freelancing",
+      "tasks": "Design and put into use guest product responsive user interfaces to guarantee consistent user experiences across platforms.",
+      "tags": ["Html", "Css", "React", "SQL"],
+      "year": "2023"
+    },
+    {
+      "title": "First year student",
+      "company": "FPT University",
+      "tasks": "English communication, basic programming languages",
+      "tags": ["C", "C+", "Java"],
+      "year": "2020"
+    }
+  ]
+}

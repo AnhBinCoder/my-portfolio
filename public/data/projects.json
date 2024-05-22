@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Portfolio Website",
+            "image": "/images/PortfolioWebsite.png",
+            "link": "",
+            "tags": ["Next.js", "Javascript", "Tailwind CSS"],
+            "text": "A portfolio website with responsive design that highlights professional work and services."
+        },
+        {
+            "title": "Timeshare Website",
+            "image": "/images/Timeshare.png",
+            "link": "",
+            "tags": ["React.js", "Javascript", "Tailwind CSS"],
+            "text": "A single-page application with responsive design that help user easy for use."
+        },
+        {
+            "title": "Noi That Website",
+            "image": "/images/NoiThat.png",
+            "link": "",
+            "tags": ["React.js", "Javascript", "Tailwind CSS"],
+            "text": "A website to build interior for a new house, help user have many choices for build."
+        }
+    ]
+}
